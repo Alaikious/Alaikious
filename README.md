@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+  <img src="B10cjENj_400x400.jpg"  
+     width="400" 
+     height="400" 
+     style="border-radius: 50%; object-fit: cover;" />
   <h1>
-    你好，我是 Alaikious (松果)
+    当那翼骑兵杀到。
   </h1>
   <p>
-    <strong>策略研究员 / Rust 开发者 / AI & Web3 探索者</strong>
+    <strong>策略研究员 / golang 开发者 / AI & Web3 探索者</strong>
   </p>
   <p>
-    <em>「 在 0 和 1 的世界里，探寻逻辑的诗意与混沌的秩序 」</em>
+    <em>「 我觉得所有人找我聊天我大概都能找到相投的爱好 」</em>
   </p>
 </div>
 
@@ -17,25 +20,19 @@
 
 ### <strong>「 关于我 & 当前状态 」</strong>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake.svg">
-</picture>
 
-
--  nicknames: **松果 (pico)** / **Alexius** / **Jashin (邪神)**
+-  nicknames: 松果 (pico) / Alexius / Jashin
 - 🧠 认知模型: **ASD/ADHD** | **INTP** | **5w4** —— 以独特的视角分析与构建世界
-- 🔭 **当前工作**: 策略研究员 | Rust 框架研发
+- 🔭 **当前工作**: 策略研究员 | 量化相关框架开发
 - 🌱 **近期探索**:
-  - 🤖 AI 在动画创作流程中的应用 (AI in Animation Workflows)
-  - 🗺️ AI 在地理信息系统中的应用 (AI in GIS Applications)
-- 🚀 **核心领域**: Web3 量化策略开发 | AI 机器学习 | 渗透测试
-- 🏁 **GitHub 状态**: 新手旅程开启，正在整理代码与思绪...
+  - 🤖 AI in Animation Workflows)
+  - 🗺️ AI in GIS Applications)
+- 🚀 **涉及领域**: 量化 | AI 机器学习 | 开发 | 渗透测试 等
+- 🏁 **GitHub 状态**: 新手村
 
 ---
 
-### <strong>「 我的技术武器库 」</strong>
+### <strong>「 技术独木桥 」</strong>
 
 <table width="100%">
   <tr>
@@ -47,17 +44,14 @@
     <td align="center">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" /></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Golang" /></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" /></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /></a>
     </td>
     <td align="center">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="40" alt="PyTorch" /></a>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="TensorFlow" /></a>
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" height="35" alt="AI" /></a>
     </td>
     <td align="center">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
-      <a href="#"><img src="https://seeklogo.com/images/W/web3-logo-346442A0F8-seeklogo.com.png" height="30" alt="Web3" /></a>
     </td>
   </tr>
 </table>
