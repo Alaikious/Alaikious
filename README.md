@@ -1,66 +1,78 @@
-## Hi there 👋
-
-<!--
-**Alaikious/Alaikious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hFsx5bWgo1j/giphy.gif" width="100"/>
-  <h1>Olá!! Sou [Seu Nome] ✨</h1>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/[SEU_INSTAGRAM]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/[SEU_TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
-### 👨‍💻 Sobre Mim:
-Eu sou um [Sua Profissão] de [Sua Cidade].
-
-- 🔭 Atualmente estou trabalhando em [Seu Projeto Atual]
-- 🌱 Estou aprendendo sobre **[Tecnologia que está aprendendo]**
-- 💬 Pergunte-me sobre [Assunto que você domina]
-- 📫 Como me encontrar: [seu.email@exemplo.com]
-- 😄 Curiosidade: [Um fato divertido sobre você]
-
----
-
-### 🛠️ Minha Tech Stack:
 <div align="center">
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+  <h1>
+    你好，我是 Alaikious (松果)
+  </h1>
+  <p>
+    <strong>策略研究员 / Rust 开发者 / AI & Web3 探索者</strong>
+  </p>
+  <p>
+    <em>「 在 0 和 1 的世界里，探寻逻辑的诗意与混沌的秩序 」</em>
+  </p>
 </div>
+
+<br>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub:
+### <strong>「 关于我 & 当前状态 」</strong>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alaikious/Alaikious/main/profile-snake-contrib/github-contribution-grid-snake.svg">
+</picture>
+
+
+-  nicknames: **松果 (pico)** / **Alexius** / **Jashin (邪神)**
+- 🧠 认知模型: **ASD/ADHD** | **INTP** | **5w4** —— 以独特的视角分析与构建世界
+- 🔭 **当前工作**: 策略研究员 | Rust 框架研发
+- 🌱 **近期探索**:
+  - 🤖 AI 在动画创作流程中的应用 (AI in Animation Workflows)
+  - 🗺️ AI 在地理信息系统中的应用 (AI in GIS Applications)
+- 🚀 **核心领域**: Web3 量化策略开发 | AI 机器学习 | 渗透测试
+- 🏁 **GitHub 状态**: 新手旅程开启，正在整理代码与思绪...
+
+---
+
+### <strong>「 我的技术武器库 」</strong>
+
+<table width="100%">
+  <tr>
+    <td align="center"><strong>语言 & 框架</strong></td>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="center"><strong>其他领域</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" /></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Golang" /></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" /></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /></a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="40" alt="PyTorch" /></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="TensorFlow" /></a>
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" height="35" alt="AI" /></a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
+      <a href="#"><img src="https://seeklogo.com/images/W/web3-logo-346442A0F8-seeklogo.com.png" height="30" alt="Web3" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <strong>「 GitHub 统计数据 」</strong>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME_DO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaikious&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alaikious's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME_DO_GITHUB]&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaikious&layout=compact&langs_count=8&theme=tokyonight" alt="Alaikious's Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <p>“ Welcome to my zone. ”</p>
 </div>
