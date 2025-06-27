@@ -7,7 +7,7 @@
     当那翼骑兵杀到。
   </h1>
   <p>
-    <strong>策略研究员 / golang 开发者 / AI & Web3 探索者</strong>
+    <strong>quant / golang 开发者 / AI & Web3 探索者</strong>
   </p>
   <p>
     <em>「 我觉得所有人找我聊天我大概都能找到相投的爱好 」</em>
